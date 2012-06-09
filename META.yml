@@ -1,6 +1,6 @@
 --- #YAML:1.0
 name:               Net-SMS-WorldText
-version:            1.0
+version:            1.1
 abstract:           Send SMS messages via the World-Text HTTP API
 author:
     - Dennis Kaarsemaker <dennis@kaarsemaker.net>
